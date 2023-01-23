@@ -7,3 +7,5 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phon
     alert("Вы используете Safari браузер.");
     
 } else alert("Вы используете ПК.")
+
+alert(window.navigator.userAgent)
